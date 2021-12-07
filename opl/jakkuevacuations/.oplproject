@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Configuration1" category="opl">
+            			
+            <ref name="jakkuevacuations.mod" type="model">
+			</ref>
+            			
+            <ref name="jakkuevacuations.ops" type="setting">
+			</ref>
+            			
+            <ref name="jakkuevacuations.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

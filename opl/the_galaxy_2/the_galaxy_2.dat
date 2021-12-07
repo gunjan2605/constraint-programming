@@ -1,0 +1,11 @@
+/*********************************************
+ * OPL 20.1.0.0 Data
+ * Author: gunjan
+ * Creation Date: Aug 27, 2021 at 7:49:33 PM
+ *********************************************/
+
+ n = 3;
+ 
+ planets = {"Dagobah", "Naboo", "Geonosis", "Kamino", "Dantooine", "Adleraan", "Coruscant",
+                    "Cantonica", "Endor", "Nur", "Onderon", "Takodana"};
+                    

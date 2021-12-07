@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Configuration1" category="opl">
+            			
+            <ref name="Han_Solo.mod" type="model">
+			</ref>
+            			
+            <ref name="Han_Solo.ops" type="setting">
+			</ref>
+            			
+            <ref name="Han_Solo.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

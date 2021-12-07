@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="cp">
+    <setting name="intervalsequenceinferencelevel" value="Extended"/>
+    <setting name="nooverlapinferencelevel" value="Extended"/>
+    <setting name="cumulfunctioninferencelevel" value="Extended"/>
+  </category>
+</settings>
